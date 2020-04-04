@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>民间故事汇</title>
+  
+  <subtitle>民间故事汇</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.folkstory.net/"/>
+  <updated>2020-03-22T14:06:21.787Z</updated>
+  <id>https://www.folkstory.net/</id>
+  
+  <author>
+    <name>77</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>民间故事汇</title>
+    <link href="https://www.folkstory.net/folkstory.html"/>
+    <id>https://www.folkstory.net/folkstory.html</id>
+    <published>1998-03-18T02:25:00.000Z</published>
+    <updated>2020-03-22T14:06:21.787Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="民间故事汇" scheme="https://www.folkstory.net/categories/%E6%B0%91%E9%97%B4%E6%95%85%E4%BA%8B%E6%B1%87/"/>
+    
+    
+      <category term="民间故事汇" scheme="https://www.folkstory.net/tags/%E6%B0%91%E9%97%B4%E6%95%85%E4%BA%8B%E6%B1%87/"/>
+    
+  </entry>
+  
+</feed>
